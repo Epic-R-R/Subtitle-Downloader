@@ -131,7 +131,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]and also, yo
 
 [1]: https://twitter.com/Sullivan__z
 [2]: https://t.me/Sullivan_z
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)</p>
+Project Link: [https://github.com/Epic-R-R/SsubDownloader](https://github.com/Epic-R-R/SsubDownloader)</p>
 <br/>
 
 ## License
