@@ -119,18 +119,18 @@ You can use this tool in both guest and member modes
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]and also, you can send email for me <a href="mailto:salar.z@outlook.de?subject=SsubDownloader">salar.z@outlook.de</a>
+You can find me on [![Twitter][1.2]][1], or send email for me <a href="mailto:salar.z@outlook.de?subject=SsubDownloader">salar.z@outlook.de</a>
 
 
 <!-- Icons -->
 
 [1.2]: https://uupload.ir/files/0sgh_twitter.png (twitter icon)
-[2.2]: https://uupload.ir/files/rgnq_telegram.png (Telegram icon)
+<!-- [2.2]: https://uupload.ir/files/rgnq_telegram.png (Telegram icon) -->
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/Sullivan__z
-[2]: https://t.me/Sullivan_z
+<!-- [2]: https://t.me/username -->
 Project Link: [https://github.com/Epic-R-R/SsubDownloader](https://github.com/Epic-R-R/SsubDownloader)</p>
 <br/>
 
