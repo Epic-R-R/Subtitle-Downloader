@@ -119,7 +119,7 @@ You can use this tool in both guest and member modes
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]and also, you can send email for me <a href="salar.z@outlook.de">salar.z@outlook.de</a>
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]and also, you can send email for me <a href="mailto:salar.z@outlook.de?subject=SsubDownloader">salar.z@outlook.de</a>
 
 
 <!-- Icons -->
