@@ -51,8 +51,6 @@ This is the first tool for download fa subtitle on Linux, It includes a command-
 ### Built With
 - **list of Tools and libraries this project using for building**
 
-<br/>
-
 ![Python Version](https://img.shields.io/badge/python-V3.8-Information?style=for-the-badge&logo=python&logoColor=blue&color=436DDD)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/badge/beautifulsoup4-V4.9.3-Information?style=for-the-badge&logo=python&logoColor=blue&color=436DDD)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/badge/wget-V3.2-Information?style=for-the-badge&logo=python&logoColor=blue&color=436DDD)
