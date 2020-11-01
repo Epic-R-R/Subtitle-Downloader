@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://uupload.ir/files/xevo_logo.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">SsubDownloader</h2>
+ <h2 align="center">Subtitle Downloader</h2>
  <p align="center">First tool for download fa subtitle on Linux</p>
 </p>
   <p align="center">
@@ -19,9 +19,9 @@
     <br />
   </p>
   <p align="center">
-    <a href="https://github.com/Epic-R-R/SsubDownloader/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/Epic-R-R/Subtitle-Downloader/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/Epic-R-R/SsubDownloader/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/Epic-R-R/Subtitle-Downloader/issues/new/choose">Request Feature</a>
   </p>
 
 <p align="center">Loved the project? Please consider <a href="https://blockchain.com/btc/payment_request?address=1EtdgCxD6psi1JHKzFacHPXJaaTVJabxJP&amount=0.00007272&message=Donate SsubDownlaoder"><img alt="BTC" src="https://img.shields.io/badge/BTC-1KodCipfz5zkMN8SxVFWd3ZUxonKnnYXAA-informational?style=flat&logo=BITCOIN&logoColor=yellow&color=1374DA" /></a> to help it improve!
@@ -79,7 +79,7 @@ sudo apt install python3-pip
 
 1. Clone the repo
 ```sh
-git clone https://github.com/Epic-R-R/SsubDownloader.git
+git clone https://github.com/Epic-R-R/Subtitle-Downloader.git
 ```
 2. Go to directory 
 ```sh
@@ -119,7 +119,7 @@ You can use this tool in both guest and member modes
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or send email for me <a href="mailto:salar.z@outlook.de?subject=SsubDownloader">salar.z@outlook.de</a>
+You can find me on [![Twitter][1.2]][1], or send email for me <a href="mailto:salar.z@outlook.de?subject=Subtitle Downloader">salar.z@outlook.de</a>
 
 
 <!-- Icons -->
@@ -131,13 +131,13 @@ You can find me on [![Twitter][1.2]][1], or send email for me <a href="mailto:sa
 
 [1]: https://twitter.com/Sullivan__z
 <!-- [2]: https://t.me/username -->
-Project Link: [https://github.com/Epic-R-R/SsubDownloader](https://github.com/Epic-R-R/SsubDownloader)</p>
+Project Link: [https://github.com/Epic-R-R/Subtitle-Downloader](https://github.com/Epic-R-R/Subtitle-Downloader)</p>
 <br/>
 
 ## License
 
 <p align="center">
-<a href="https://github.com/Epic-R-R/SsubDownloader/blob/Sullivan/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Epic-R-R/SsubDownloader?style=for-the-badge"></a>
+<a href="https://github.com/Epic-R-R/Subtitle-Downloader/blob/Sullivan/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Epic-R-R/Subtitle-Downloader?style=for-the-badge"></a>
 <br/>
-Distributed under the MIT License. See <a href="https://github.com/Epic-R-R/SsubDownloader/blob/Sullivan/LICENSE"><code>LICENSE</code></a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/Epic-R-R/Subtitle-Downloader/blob/Sullivan/LICENSE"><code>LICENSE</code></a> for more information.
 </p>
