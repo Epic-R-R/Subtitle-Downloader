@@ -24,9 +24,6 @@
     <a href="https://github.com/Epic-R-R/Subtitle-Downloader/issues/new/choose">Request Feature</a>
   </p>
 
-<p align="center">Loved the project? Please consider <a href="https://blockchain.com/btc/payment_request?address=1EtdgCxD6psi1JHKzFacHPXJaaTVJabxJP&amount=0.00007272&message=Donate SsubDownlaoder"><img alt="BTC" src="https://img.shields.io/badge/BTC-1KodCipfz5zkMN8SxVFWd3ZUxonKnnYXAA-informational?style=flat&logo=BITCOIN&logoColor=yellow&color=1374DA" /></a> to help it improve!
-<br/>
-
 ## Table of Contents
 
 * [About the Project](#about-the-project)
